@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="CinemaInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CityInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FilmInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="HallInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="HallScheme.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="RatingSystemInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SessionInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
